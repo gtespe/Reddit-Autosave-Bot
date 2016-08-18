@@ -1,2 +1,8 @@
-# Reddit-Bot
-A bot that browses reddit.com/r/buildapcsales and messages you whenever there is a sale on a product of your choice.
+# Reddit AutoSave Bot
+A bot that browses a subreddit and automatically saves specified posts.
+
+Requirements:
+    A reddit account
+
+    Praw for python:
+        sudo pip install praw
